@@ -21,3 +21,9 @@
 * Learn more
   - [8 Common Types of Neural Networks](https://www.coursera.org/in/articles/types-of-neural-networks) - coursera.org
 
+-----
+
+3. Perceptron <br />
+`A perceptron in deep learning is the simplest type of artificial neural network. It consists of a single neuron that takes multiple inputs, applies weights to them, sums them up, and passes the result through an activation function (like a step function or sigmoid) to produce an output. It is mainly used for binary classification tasks and forms the basic building block of more complex neural networks.`
+* Learn more
+  - [What the Hell is Perceptron?](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53) - towardsdatascience.com
