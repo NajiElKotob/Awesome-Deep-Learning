@@ -6,6 +6,8 @@
 * Learn more
   - [Deep Learning (DL) vs Machine Learning (ML): A Comparative Guide](https://www.datacamp.com/tutorial/machine-deep-learning) - datacamp.com
 
+-----
+
 2. Types of Neural Network
    - Convolutional neural networks
    - Recurrent neural networks
@@ -18,3 +20,4 @@
 
 * Learn more
   - [8 Common Types of Neural Networks](https://www.coursera.org/in/articles/types-of-neural-networks) - coursera.org
+
