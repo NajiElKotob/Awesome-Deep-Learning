@@ -19,6 +19,7 @@
    - Self-organising maps
 
 * Learn more
+  - [But what is a neural network? | Chapter 1, Deep learning 📺](https://www.youtube.com/watch?v=aircAruvnKk) ⭐ - 3Blue1Brown
   - [8 Common Types of Neural Networks](https://www.coursera.org/in/articles/types-of-neural-networks) - coursera.org
 
 -----
