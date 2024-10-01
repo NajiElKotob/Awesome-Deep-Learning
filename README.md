@@ -31,4 +31,4 @@
 ### Perceptron trick
 `The perceptron trick is a tiny step that helps us go from a classifier, to a slightly better classifier.`
 * Learn more
-  - [Perceptron Trick](http://dy199-124.ust.hk/udacity/[FCO]%20UDACITY%20-%20Robotics%20Software%20Engineer%20v1.0.0/Part%2001-Module%2012-Lesson%2001_Intro%20to%20Neural%20Networks/09.%20Perceptron%20Trick.html) - ust.hk
+  - [Perceptron Trick](http://dy199-124.ust.hk/udacity/[FCO]%20UDACITY%20-%20Robotics%20Software%20Engineer%20v1.0.0/Part%2001-Module%2012-Lesson%2001_Intro%20to%20Neural%20Networks/09.%20Perceptron%20Trick.html) ⭐ - ust.hk
