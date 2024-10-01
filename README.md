@@ -20,6 +20,7 @@
 
 * Learn more
   - [But what is a neural network? | Chapter 1, Deep learning 📺](https://www.youtube.com/watch?v=aircAruvnKk) ⭐ - 3Blue1Brown
+  - [Intro to Neural Networks 📚](http://dy199-124.ust.hk/udacity/[FCO]%20UDACITY%20-%20Robotics%20Software%20Engineer%20v1.0.0/Part%2001-Module%2012-Lesson%2001_Intro%20to%20Neural%20Networks/01.%20Introducing%20Luis!.html) - ust.hk
   - [8 Common Types of Neural Networks](https://www.coursera.org/in/articles/types-of-neural-networks) - coursera.org
 
 -----
