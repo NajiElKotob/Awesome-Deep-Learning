@@ -34,3 +34,10 @@
 `The perceptron trick is a tiny step that helps us go from a classifier, to a slightly better classifier.`
 * Learn more
   - [Perceptron Trick](http://dy199-124.ust.hk/udacity/[FCO]%20UDACITY%20-%20Robotics%20Software%20Engineer%20v1.0.0/Part%2001-Module%2012-Lesson%2001_Intro%20to%20Neural%20Networks/09.%20Perceptron%20Trick.html) ⭐ - ust.hk
+
+-----
+
+4. ## Forward propagation <br />
+`Forward propagation is a process in neural networks where input data passes through each layer of the network to generate an output. Starting from the input layer, each neuron processes the data by applying weights and biases, passing the results through an activation function, and sending the output to the next layer. This continues until the final layer, where the network's prediction or classification is produced. Forward propagation is essential for computing predictions and for calculating the error during training, which is then used to adjust weights through backpropagation.`
+* Learn more
+  - [Forward propagation in neural networks — Simplified math and code version](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250) - vikashraj luhaniwal
