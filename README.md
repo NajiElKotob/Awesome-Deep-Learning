@@ -41,3 +41,11 @@
 `Forward propagation is a process in neural networks where input data passes through each layer of the network to generate an output. Starting from the input layer, each neuron processes the data by applying weights and biases, passing the results through an activation function, and sending the output to the next layer. This continues until the final layer, where the network's prediction or classification is produced. Forward propagation is essential for computing predictions and for calculating the error during training, which is then used to adjust weights through backpropagation.`
 * Learn more
   - [Forward propagation in neural networks — Simplified math and code version](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250) - vikashraj luhaniwal
+ 
+
+-----
+
+## Stories
+* [AlphaGo](https://deepmind.google/research/breakthroughs/alphago/) - AlphaGo mastered the ancient game of Go, defeated a Go world champion, and inspired a new era of AI systems.
+
+
