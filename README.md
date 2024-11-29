@@ -49,3 +49,6 @@
 * [AlphaGo](https://deepmind.google/research/breakthroughs/alphago/) - AlphaGo mastered the ancient game of Go, defeated a Go world champion, and inspired a new era of AI systems.
 
 
+-----
+## Learning
+* [Stanford CS229: Machine Learning Full Course taught by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - Stanford Online
